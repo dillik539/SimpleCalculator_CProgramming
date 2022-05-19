@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <unistd.h>
 
 int max(int num1, int num2, int num3);
 double add(double num1, double num2);
